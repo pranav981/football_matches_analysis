@@ -1,0 +1,21 @@
+Team,MatchesPlayed,GoalsFor,GoalsAgainst,Points,GoalsPerMatch,ConcededPerMatch,AttackRank,DefenceRank,FoulsPerMatch,Yellows,Reds,CardsPerMatch,FoulRank,Category
+Barcelona,38,95,36,94,2.5,0.95,1,2,9.47,60,2,1.63,20,Most Disciplined
+Real Madrid,38,77,35,86,2.03,0.92,2,1,10.0,69,7,2.0,19,Most Disciplined
+Villarreal,38,72,46,72,1.89,1.21,3,6,11.95,78,3,2.13,14,Average
+Ath Madrid,38,62,44,69,1.63,1.16,4,4,11.18,79,5,2.21,16,Average
+Betis,38,59,48,60,1.55,1.26,5,7,10.63,73,2,1.97,18,Most Disciplined
+Celta,38,53,48,54,1.39,1.26,7,7,11.68,73,1,1.95,15,Average
+Getafe,38,32,38,51,0.84,1.0,19,3,15.18,111,8,3.13,1,Most Fouling
+Vallecano,38,41,44,50,1.08,1.16,17,4,13.47,102,9,2.92,7,Average
+Valencia,38,46,55,49,1.21,1.45,11,10,12.08,71,3,1.95,13,Average
+Espanol,38,43,55,46,1.13,1.45,15,10,13.79,91,5,2.53,5,Average
+Sociedad,38,59,61,46,1.55,1.61,5,19,14.24,88,4,2.42,4,Average
+Ath Bilbao,38,43,58,45,1.13,1.53,15,16,13.68,81,6,2.29,6,Average
+Alaves,38,44,56,43,1.16,1.47,13,13,14.92,95,5,2.63,2,Most Fouling
+Sevilla,38,46,60,43,1.21,1.58,11,17,14.76,109,5,3.0,3,Most Fouling
+Elche,38,49,57,43,1.29,1.5,8,14,13.34,81,5,2.26,9,Average
+Levante,38,47,61,42,1.24,1.61,9,19,12.26,84,5,2.34,12,Average
+Osasuna,38,44,50,42,1.16,1.32,13,9,13.47,91,6,2.55,7,Average
+Mallorca,38,47,57,42,1.24,1.5,9,14,12.29,81,5,2.26,11,Average
+Girona,38,39,55,41,1.03,1.45,18,10,10.74,79,7,2.26,17,Average
+Oviedo,38,26,60,29,0.68,1.58,20,17,12.47,81,10,2.39,10,Average
